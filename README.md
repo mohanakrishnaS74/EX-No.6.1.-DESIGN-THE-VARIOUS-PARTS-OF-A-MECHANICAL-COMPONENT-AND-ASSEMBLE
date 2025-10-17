@@ -64,5 +64,20 @@ If the components do not fit properly into the slots, it can be moved into the s
 
 ## OUTPUT:
 
+#### LINKAGE
+![6 1  1 _page-0001](https://github.com/user-attachments/assets/b75fb63e-08fb-4b7d-aec2-96e274e2fd33)
+
+#### BASE PLATE
+![EX 6 1  2 _page-0001](https://github.com/user-attachments/assets/05666e91-fd15-4af2-9f0c-e0daa1f4d8c9)
+
+#### GEAR LINKAGE
+![6 1  3 _page-0001](https://github.com/user-attachments/assets/ad10362f-4629-4656-9692-9da3f8336cfc)
+
+#### FINGER
+![ex 6 1  5  Drawing_page-0001](https://github.com/user-attachments/assets/0f4231e1-bfd6-4eeb-8439-a2d7745e4eea)
+
+#### ASSEMBLED VIEW
+![6 1  4 _page-0001](https://github.com/user-attachments/assets/eda0ca5f-1d90-497e-b607-f9975ee0ef60)
+
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
